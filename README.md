@@ -3,8 +3,7 @@
    <img src="/docs/banner1.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## Me and bla bla bla...
+## Me...
 
-**I'm Andres Alonso**  
-15y dev & bug hunter  
-I make tech & hacking content for youtube...   
+**I'm Eduardo Maragno**  
+19y ethical hacker & bug hunter  

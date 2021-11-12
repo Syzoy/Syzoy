@@ -1,6 +1,5 @@
 <p>
-   <!--<img src="https://imgur.com/a/ZqmEnq7" border="0" width="100%">-->
-   <img src="/docs/banner.png" alt="CL Thumb" border="0" width="100%">
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZqmEnq7" data-context="false" ><a href="//imgur.com/a/ZqmEnq7"></a></blockquote><script async                              src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 ## Me and bla bla bla...
